@@ -1,7 +1,7 @@
 {
   "name": "hubot-pugsofmarvel",
   "description": "A hubot script to post a gif dressed as a Marvel character",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "shulance <sam.hulance@googlemail.com>",
   "license": "MIT",
 
