@@ -1,0 +1,28 @@
+{
+  "name": "hubot-pugsofmarvel",
+  "description": "A hubot script to post a gif dressed as a Marvel character",
+  "version": "1.0.0",
+  "author": "shulance <sam.hulance@googlemail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shulance/hubot-pugsofmarvel.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/shulance/hubot-pugsofmarvel/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "main": "index.coffee"
+
+}
